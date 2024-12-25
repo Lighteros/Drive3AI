@@ -652,7 +652,7 @@
           DEVELOP: "/develop",
           ECOSYSTEM: "/ecosystem",
           DOCS: "https://docs.aioz.network/",
-          EXPLORER: "https://explorer.aioz.network/",
+          EXPLORER: "https://app-driver3-ai.vercel.app/",
           DEVELOPER: "https://developer.aioz.network/",
           W3S: "https://w3s.storage/",
           WALLET: "https://wallet.aioz.network/",

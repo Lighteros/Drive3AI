@@ -441,7 +441,7 @@
           DEVELOP: "/develop",
           ECOSYSTEM: "/ecosystem",
           DOCS: "https://docs.aioz.network/",
-          EXPLORER: "https://explorer.aioz.network/",
+          EXPLORER: "https://app-driver3-ai.vercel.app/",
           DEVELOPER: "https://developer.aioz.network/",
           W3S: "https://w3s.storage/",
           WALLET: "https://wallet.aioz.network/",
@@ -541,9 +541,9 @@
         },
         { title: "DePIN", desc: "Drive3AI Rewards", href: i.Z.NODE_APP },
         {
-          title: "Blockchain Explorer",
-          desc: "Our Drive3AI Network data dashboard",
-          href: "https://explorer.aioz.network/",
+          title: "Staking",
+          desc: "Drive3AI Staking",
+          href: "https://app-driver3-ai.vercel.app/",
           external: !0,
         },
       ];
@@ -838,8 +838,8 @@
             href: N.Z.DOCS,
           },
           {
-            title: "Blockchain",
-            desc: "Drive3AI Blockchain Explorer",
+            title: "Staking",
+            desc: "Drive3AI Staking",
             external: !0,
             href: N.Z.EXPLORER,
           }

@@ -508,7 +508,7 @@
                 {
                   tag: "Blockchain",
                   content:
-                    "Deploy Drive3AI Blockchain Explorer, Drive3AI Blockchain Wallet on Drive3AI Network Testnet",
+                    "Deploy Drive3AI Staking, Drive3AI Blockchain Wallet on Drive3AI Network Testnet",
                 },
                 {
                   tag: "Blockchain",
@@ -577,7 +577,7 @@
                 },
                 {
                   tag: "Blockchain",
-                  content: "Develop Drive3AI Blockchain Explorer",
+                  content: "Develop Drive3AI Staking",
                 },
                 {
                   tag: "AI",
