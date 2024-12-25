@@ -560,8 +560,8 @@
         x = a.n(m);
       a(2265);
       let u = [
-        { icon: "icon-x", url: "https://twitter.com/AIOZNetwork" },
-        { icon: "icon-telegram", url: "https://t.me/aioznetwork" },
+        { icon: "icon-x", url: "https://twitter.com" },
+        { icon: "icon-telegram", url: "https://t.me" },
       ];
       var f = () =>
         (0, s.jsx)("ul", {
