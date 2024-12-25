@@ -636,7 +636,7 @@
         {
           title: "Make Your Computer <br />Work For You.",
           img: "/images/ecosystem/infrastructure/aioz-depin.png",
-          href: "https://aioz.network/aioz-node",
+          href: "/node",
           target: "_self",
           size: { width: 280, height: 40 },
         },

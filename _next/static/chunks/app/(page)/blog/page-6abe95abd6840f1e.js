@@ -413,7 +413,7 @@
           HOME: "/",
           DAPPS: "/aioz-dapps",
           IPFS: "https://w3ipfs.storage/",
-          NODE_APP: "/aioz-node",
+          NODE_APP: "/node",
           WEB3_AI: "/w3ai",
           STORE: "/aioz-store",
           WEB3_STREAMING: "/w3stream",
