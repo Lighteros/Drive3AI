@@ -436,7 +436,7 @@
               more: {
                 title: "Drive3AI Blockchain is Cosmos and EVM Compatible",
                 text: "Learn More",
-                href: "https://docs.drive3ai.com/aioz-blockchain/overview",
+                href: "https://doc.drive3ai.com/aioz-blockchain/overview",
               },
               children: v.map((e, t) => (0, a.jsx)(f, { ...e }, t)),
             }),

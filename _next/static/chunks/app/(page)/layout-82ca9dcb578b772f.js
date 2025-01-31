@@ -440,7 +440,7 @@
           CONTACT: "/contact",
           DEVELOP: "/develop",
           ECOSYSTEM: "/ecosystem",
-          DOCS: "https://docs.drive3ai.com/",
+          DOCS: "https://doc.drive3ai.com/",
           EXPLORER: "https://app.drive3ai.com/",
           DEVELOPER: "https://developer.aioz.network/",
           W3S: "https://w3s.storage/",
