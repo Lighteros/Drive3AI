@@ -440,8 +440,8 @@
           CONTACT: "/contact",
           DEVELOP: "/develop",
           ECOSYSTEM: "/ecosystem",
-          DOCS: "https://doc.drive3ai.com/",
-          EXPLORER: "https://app.drive3ai.com/",
+          DOCS: "https://doc.drive3ai.org/",
+          EXPLORER: "https://app.drive3ai.org/",
           DEVELOPER: "https://developer.aioz.network/",
           W3S: "https://w3s.storage/",
           WALLET: "https://wallet.aioz.network/",
@@ -543,7 +543,7 @@
         {
           title: "Staking",
           desc: "Drive3AI Staking",
-          href: "https://app.drive3ai.com/",
+          href: "https://app.drive3ai.org/",
           external: !0,
         },
       ];
