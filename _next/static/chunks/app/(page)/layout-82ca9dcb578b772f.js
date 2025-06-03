@@ -591,26 +591,6 @@
           (0, s.jsxs)("nav", {
             className: "flex flex-row items-end justify-between gap-8",
             children: [
-              (0, s.jsx)("ul", {
-                className: "flex flex-col gap-3",
-                children: h.map((e, t) => {
-                  let { title: a, url: l } = e;
-                  return (0, s.jsx)(
-                    "li",
-                    {
-                      children: (0, s.jsx)(x(), {
-                        href: l,
-                        className: "text-black transition-[padding] hover:pl-1",
-                        children: (0, s.jsx)(d.Z, {
-                          size: "span",
-                          children: a,
-                        }),
-                      }),
-                    },
-                    "footer-nav-".concat(t)
-                  );
-                }),
-              }),
               (0, s.jsx)(f, {}),
             ],
           }),
