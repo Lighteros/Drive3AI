@@ -832,12 +832,6 @@
         N = a(86158);
       let k = [
           {
-            title: "Docs",
-            desc: "Explore Drive3AI Documentation",
-            external: !0,
-            href: N.Z.DOCS,
-          },
-          {
             title: "Staking",
             desc: "Drive3AI Staking",
             external: !0,
